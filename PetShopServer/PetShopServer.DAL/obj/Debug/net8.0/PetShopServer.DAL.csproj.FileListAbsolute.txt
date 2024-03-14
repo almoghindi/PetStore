@@ -1,0 +1,12 @@
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\bin\Debug\net8.0\PetShopServer.DAL.deps.json
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\bin\Debug\net8.0\PetShopServer.DAL.dll
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\bin\Debug\net8.0\PetShopServer.DAL.pdb
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\PetShopServer.DAL.csproj.AssemblyReference.cache
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\PetShopServer.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\PetShopServer.DAL.AssemblyInfoInputs.cache
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\PetShopServer.DAL.AssemblyInfo.cs
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\PetShopServer.DAL.csproj.CoreCompileInputs.cache
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\PetShopServer.DAL.dll
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\refint\PetShopServer.DAL.dll
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\PetShopServer.DAL.pdb
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.DAL\obj\Debug\net8.0\ref\PetShopServer.DAL.dll

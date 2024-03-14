@@ -1,0 +1,15 @@
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\bin\Debug\net8.0\PetShopServer.BL.deps.json
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\bin\Debug\net8.0\PetShopServer.BL.dll
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\bin\Debug\net8.0\PetShopServer.BL.pdb
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\bin\Debug\net8.0\PetShopServer.DAL.dll
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\bin\Debug\net8.0\PetShopServer.DAL.pdb
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\PetShopServer.BL.csproj.AssemblyReference.cache
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\PetShopServer.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\PetShopServer.BL.AssemblyInfoInputs.cache
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\PetShopServer.BL.AssemblyInfo.cs
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\PetShopServer.BL.csproj.CoreCompileInputs.cache
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\PetShopS.90324FF1.Up2Date
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\PetShopServer.BL.dll
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\refint\PetShopServer.BL.dll
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\PetShopServer.BL.pdb
+C:\Users\almog\source\repos\PetShopServer\PetShopServer.BL\obj\Debug\net8.0\ref\PetShopServer.BL.dll

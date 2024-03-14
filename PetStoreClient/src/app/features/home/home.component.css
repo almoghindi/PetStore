@@ -1,0 +1,33 @@
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.about-us,
+.our-animals {
+  padding: 20px;
+  text-align: center;
+}
+
+.our-animals {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.our-animals .animal {
+  margin: 10px;
+  flex-basis: calc(33% - 20px);
+}
+
+.our-animals img {
+  width: 200px;
+  height: auto;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}

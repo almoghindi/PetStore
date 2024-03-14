@@ -1,0 +1,53 @@
+<div class="login-container">
+  <h2 class="text-center">Login</h2>
+
+  <form #cityForm="ngForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input
+        type="text"
+        class="form-control"
+        #usernameRef="ngModel"
+        name="name"
+        [(ngModel)]="user.userName"
+        required
+      />
+      <div *ngIf="usernameRef.touched && !usernameRef.valid" class="error">
+        <div *ngIf="usernameRef.errors?.['required']">
+          Username is required.
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input
+        type="password"
+        class="form-control"
+        #passwordRef="ngModel"
+        name="password"
+        [(ngModel)]="user.password"
+        required
+      />
+
+      <div *ngIf="passwordRef.touched && !passwordRef.valid" class="error">
+        <div *ngIf="passwordRef.errors?.['required']">
+          Password is required.
+        </div>
+      </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Login</button>
+  </form>
+  <p class="error">{{ error }}</p>
+  <p class="text-center d-flex justify-content-center">
+    Dont have a user ?&nbsp;
+    <a
+      class="nav-link text-primary"
+      style="cursor: pointer"
+      routerLink="/signup"
+    >
+      Sign Up</a
+    >
+  </p>
+</div>

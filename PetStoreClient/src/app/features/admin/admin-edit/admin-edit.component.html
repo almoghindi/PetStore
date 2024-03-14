@@ -1,0 +1,94 @@
+<p>admin-edit works!</p>
+<div class="d-flex justify-content-center align-items-center form-container">
+  <div class="form-content">
+    <h3 class="mb-4 text-center">Edit Product</h3>
+    <form #productForm="ngForm" (ngSubmit)="onSubmit()" class="form-horizontal">
+      <label for="name">Name</label>
+      <input
+        type="text"
+        class="form-control"
+        #nameRef="ngModel"
+        name="name"
+        [(ngModel)]="product.name"
+        value="{{ product.name }}"
+        required
+      />
+      <div class="error" *ngIf="nameRef.touched && !nameRef.valid">
+        <div *ngIf="nameRef.errors?.['required']">Name is required.</div>
+      </div>
+
+      <label for="description">Description</label>
+      <textarea
+        type="text"
+        class="form-control"
+        #descriptionRef="ngModel"
+        name="description"
+        [(ngModel)]="product.description"
+        required
+      >
+        {{ product.description }}
+      </textarea>
+      <div
+        class="error"
+        *ngIf="descriptionRef.touched && !descriptionRef.valid"
+      >
+        <div *ngIf="descriptionRef.errors?.['required']">
+          Description is required.
+        </div>
+      </div>
+
+      <label for="price">Price</label>
+      <input
+        type="number"
+        class="form-control"
+        #priceRef="ngModel"
+        name="price"
+        step="0.01"
+        [(ngModel)]="product.price"
+        value="{{ product.price }}"
+        required
+      />
+      <div class="error" *ngIf="priceRef.touched && !priceRef.valid">
+        <div *ngIf="priceRef.errors?.['required']">Price is required.</div>
+        <div *ngIf="priceRef.errors?.['pattern']">
+          Please enter a valid price.
+        </div>
+      </div>
+
+      <label for="pictureUrl">Picture Url</label>
+      <input
+        type="text"
+        class="form-control"
+        #pictureUrlRef="ngModel"
+        name="pictureUrl"
+        [(ngModel)]="product.pictureUrl"
+        value="{{ product.pictureUrl }}"
+        required
+      />
+      <div class="error" *ngIf="pictureUrlRef.touched && !pictureUrlRef.valid">
+        <div *ngIf="pictureUrlRef.errors?.['required']">
+          Picture Url is required.
+        </div>
+      </div>
+
+      <label for="category">Category</label>
+      <select
+        class="form-control"
+        #categoryRef="ngModel"
+        name="category"
+        [(ngModel)]="product.categoryId"
+        value="{{ product.categoryId }}"
+        required
+      >
+        <option
+          *ngFor="let category of categories"
+          [value]="category.categoryId"
+        >
+          {{ category.name }}
+        </option>
+      </select>
+
+      <button type="submit" class="btn btn-primary m-2">Edit</button>
+    </form>
+  </div>
+</div>

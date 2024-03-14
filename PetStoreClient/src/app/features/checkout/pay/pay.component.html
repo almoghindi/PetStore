@@ -1,0 +1,93 @@
+<div class="container mt-5">
+  <h2>Payment Information</h2>
+  <form
+    #paymentForm="ngForm"
+    (ngSubmit)="onSubmit(paymentForm.value)"
+    novalidate
+  >
+    <div class="mb-3">
+      <label for="deliveryOption" class="form-label">Delivery Option</label>
+      <select
+        class="form-select"
+        id="deliveryOption"
+        required
+        [(ngModel)]="deliveryOption"
+        name="deliveryOption"
+      >
+        <option value="" disabled selected>Select your option</option>
+        <option value="standard">Standard Delivery</option>
+        <option value="express">Express Delivery</option>
+        <option value="overnight">Overnight Delivery</option>
+      </select>
+    </div>
+
+    <h4>Delivery Details</h4>
+    <div class="mb-3">
+      <label for="fullName" class="form-label">Full Name</label>
+      <input
+        type="text"
+        class="form-control"
+        id="fullName"
+        required
+        [(ngModel)]="fullName"
+        name="fullName"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="address" class="form-label">Address</label>
+      <input
+        type="text"
+        class="form-control"
+        id="address"
+        required
+        [(ngModel)]="address"
+        name="address"
+      />
+    </div>
+    <!-- Additional delivery details fields as needed -->
+
+    <h4>Credit Card Information</h4>
+    <div class="mb-3">
+      <label for="cardNumber" class="form-label">Card Number</label>
+      <input
+        type="text"
+        class="form-control"
+        id="cardNumber"
+        required
+        [(ngModel)]="cardNumber"
+        name="cardNumber"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="expiryDate" class="form-label">Expiry Date</label>
+      <input
+        type="text"
+        class="form-control"
+        id="expiryDate"
+        required
+        [(ngModel)]="expiryDate"
+        name="expiryDate"
+      />
+    </div>
+    <div class="mb-3">
+      <label for="cvv" class="form-label">CVV</label>
+      <input
+        type="text"
+        class="form-control"
+        id="cvv"
+        required
+        [(ngModel)]="cvv"
+        name="cvv"
+      />
+    </div>
+    <!-- Any additional credit card fields as needed -->
+
+    <button
+      type="submit"
+      class="btn btn-primary"
+      [disabled]="!paymentForm.valid"
+    >
+      Pay Now
+    </button>
+  </form>
+</div>

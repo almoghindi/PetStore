@@ -1,0 +1,41 @@
+<div class="container mt-4">
+  <h2>Checkout</h2>
+  <div
+    *ngFor="let item of cartItems$ | async"
+    class="row mb-3 align-items-center"
+  >
+    <div class="col-md-2">
+      <img
+        [src]="item.product.pictureUrl"
+        alt="{{ item.product.name }}"
+        class="img-fluid"
+      />
+    </div>
+    <div class="col-md-6">
+      <div>{{ item.product.name }} - {{ item.product.price | currency }}</div>
+    </div>
+    <div class="col-md-4 d-flex align-items-center justify-content-end">
+      <button
+        (click)="decrementQuantity(item.product.productId)"
+        class="btn btn-secondary btn-sm"
+      >
+        -
+      </button>
+      <span class="mx-2">{{ item.quantity }}</span>
+      <button
+        (click)="incrementQuantity(item.product)"
+        class="btn btn-secondary btn-sm"
+      >
+        +
+      </button>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <strong>Total: {{ total$ | async | currency }}</strong>
+    </div>
+  </div>
+  <button class="btn btn-primary mt-3" (click)="handleCheckout()">
+    Buy Now
+  </button>
+</div>

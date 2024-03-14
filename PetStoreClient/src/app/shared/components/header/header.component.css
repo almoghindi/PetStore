@@ -1,0 +1,43 @@
+.logo {
+  width: 80px;
+  height: 60px;
+  margin: 0 20px;
+}
+.active-link {
+  color: black !important;
+}
+a {
+  cursor: pointer;
+}
+.right-header {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+.search-btn {
+  margin: 0 10px;
+}
+
+.user-icon {
+  margin: 10px 20px;
+  font-size: 24px;
+}
+.dropdown {
+  cursor: pointer;
+}
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+.user-dropdown {
+  max-width: 300px;
+  width: 100%;
+}
+
+.user-icon {
+  cursor: pointer;
+}
+.cart-item {
+  margin: 15px;
+}

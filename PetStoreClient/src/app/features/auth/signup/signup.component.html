@@ -1,0 +1,77 @@
+<div class="login-container">
+  <h2 class="text-center">Signup</h2>
+
+  <form #cityForm="ngForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input
+        type="text"
+        class="form-control"
+        #usernameRef="ngModel"
+        name="name"
+        [(ngModel)]="user.userName"
+        required
+      />
+      <div *ngIf="usernameRef.touched && !usernameRef.valid" class="error">
+        <div *ngIf="usernameRef.errors?.['required']">
+          Username is required.
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input
+        type="password"
+        class="form-control"
+        #passwordRef="ngModel"
+        name="password"
+        [(ngModel)]="user.password"
+        required
+      />
+
+      <div *ngIf="passwordRef.touched && !passwordRef.valid" class="error">
+        <div *ngIf="passwordRef.errors?.['required']">
+          Password is required.
+        </div>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="confirmpassword">Confirm Password</label>
+      <input
+        type="password"
+        class="form-control"
+        #confirmpasswordRef="ngModel"
+        name="confirmpassword"
+        [(ngModel)]="confirmPassword"
+        required
+      />
+      <p class="password-help">
+        Password should include minimum 6 characters with at least one upper and
+        lower case, nubmer and special character.
+      </p>
+      <div
+        *ngIf="confirmpasswordRef.touched && !confirmpasswordRef.valid"
+        class="error"
+      >
+        <div *ngIf="confirmpasswordRef.errors?.['required']">
+          Confirm Password is required.
+        </div>
+      </div>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Signup</button>
+  </form>
+  <p class="error">{{ error }}</p>
+  <p class="text-center d-flex justify-content-center">
+    Already have an account ?&nbsp;
+    <a
+      class="nav-link text-primary"
+      style="cursor: pointer"
+      routerLink="/login"
+    >
+      Sign In</a
+    >
+  </p>
+</div>

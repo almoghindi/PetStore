@@ -1,0 +1,100 @@
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" routerLink="/" routerLinkActive="active-link">
+    <img src="assets/logo.png" alt="logo" class="logo" />
+  </a>
+
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item active">
+      <a class="nav-link" routerLink="/" routerLinkActive="active-link">Home</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" routerLink="/catalog" routerLinkActive="active-link"
+        >Catalog</a
+      >
+    </li>
+  </ul>
+
+  <div class="right-header">
+    <form class="form-inline" (submit)="search($event, searchTerm.value)">
+      <div class="input-group">
+        <input
+          type="search"
+          class="form-control"
+          placeholder="Search"
+          aria-label="Search"
+          #searchTerm
+        />
+        <button class="btn btn-outline-dark" type="submit">
+          <fa-icon [icon]="faSearch"></fa-icon>
+        </button>
+      </div>
+    </form>
+
+    <div class="icon-container">
+      <div class="dropdown" *ngIf="isLoggedIn">
+        <div
+          id="dropdownMenuButton"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          <fa-icon [icon]="faUserAlt" class="user-icon"></fa-icon>
+        </div>
+        <ul
+          class="dropdown-menu dropdown-menu-end user-dropdown"
+          aria-labelledby="dropdownMenuButton"
+        >
+          <li>
+            <a class="dropdown-item" routerLink="/admin">Admin</a>
+          </li>
+          <li><a class="dropdown-item" routerLink="/orders">Orders</a></li>
+          <li>
+            <a class="dropdown-item" (click)="handleLogout()">Logout</a>
+          </li>
+        </ul>
+      </div>
+      <div *ngIf="!isLoggedIn">
+        <a routerLink="/login">
+          <button class="btn btn-primary m-2" (click)="handleLogin()">
+            Login
+          </button>
+        </a>
+      </div>
+
+      <div class="dropdown">
+        <fa-icon
+          [icon]="faCartShopping"
+          class="user-icon dropdown-toggle"
+          id="cartDropdownMenuButton"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        ></fa-icon>
+        <div class="dropdown-menu dropdown-menu-end cart-dropdown">
+          <div *ngFor="let item of cartItems$ | async">
+            <div
+              class="dropdown-item d-flex justify-content-between align-items-center"
+            >
+              <img
+                [src]="item.product.pictureUrl"
+                alt="{{ item.product.name }}"
+                style="width: 50px; height: auto"
+              />
+              <span>{{ item.product.name }}</span>
+
+              <span style="margin-left: 20px"
+                >{{ item.product.price | currency }} x {{ item.quantity }}</span
+              >
+            </div>
+          </div>
+          <div class="dropdown-divider"></div>
+
+          <div class="dropdown-item">
+            Total: {{ total$ | async | currency }}
+          </div>
+          <button class="btn btn-primary w-100" routerLink="/checkout">
+            Go to Checkout
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>

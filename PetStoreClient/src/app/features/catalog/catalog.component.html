@@ -1,0 +1,25 @@
+<h3 class="text-center m-3">Catalog</h3>
+<select
+  class="form-select"
+  name="category"
+  #category
+  (change)="onSelectedCategory(category.value)"
+>
+  <option value="0">All</option>
+  <option *ngFor="let category of categories" [value]="category.categoryId">
+    {{ category.name }}
+  </option>
+</select>
+<div class="container">
+  <div class="row justify-content-center">
+    <div
+      class="col-xl-3 col-lg-4 col-md-6 col-sm-12 mb-4 d-flex align-items-center justify-content-center"
+      *ngFor="let product of filteredProducts"
+    >
+      <app-catalog-item [product]="product"></app-catalog-item>
+    </div>
+  </div>
+</div>
+<h4 class="text-center" *ngIf="filteredProducts.length === 0">
+  Products not found!
+</h4>

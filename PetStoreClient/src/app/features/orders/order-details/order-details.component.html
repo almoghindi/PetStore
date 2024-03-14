@@ -1,0 +1,25 @@
+<div class="container mt-4" *ngIf="total != 0">
+  <h2>Order: {{ orderId }}</h2>
+  <div *ngFor="let item of cartItems" class="row mb-3 align-items-center">
+    <div class="col-md-2">
+      <img
+        [src]="item.product.pictureUrl"
+        alt="{{ item.product.name }}"
+        class="img-fluid"
+      />
+    </div>
+    <div class="col-md-6">
+      <div>
+        {{ item.product.name }} - {{ item.product.price | currency }} x
+        {{ item.quantity }}
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      <strong>Total: {{ total | currency }}</strong>
+    </div>
+  </div>
+</div>
+
+<h4 class="text-center" *ngIf="total == 0">Order Not found!</h4>

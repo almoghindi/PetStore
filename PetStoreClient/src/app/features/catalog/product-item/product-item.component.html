@@ -1,0 +1,48 @@
+<div *ngIf="product" class="container mt-5">
+  <div class="row">
+    <div class="col-md-6">
+      <img
+        [src]="product.pictureUrl"
+        alt="{{ product.name }}"
+        class="img-fluid"
+      />
+    </div>
+    <div class="col-md-6">
+      <h2>{{ product.name }}</h2>
+      <p>{{ product.description }}</p>
+      <p class="fw-bold">Price: {{ product.price | currency }}</p>
+      <button type="button" class="btn btn-primary mt-2">Add to cart</button>
+      <div class="comments mt-4">
+        <h4>Comments:</h4>
+        <div *ngFor="let comment of comments" class="comment mt-3">
+          <p class="comment-author">
+            {{ comment.author }} -
+            <span class="comment-date">{{
+              comment.created | date : "medium"
+            }}</span
+            >:
+          </p>
+          <p class="comment-message">{{ comment.commentMessage | truncate }}</p>
+        </div>
+      </div>
+      <div class="add-comment-form mt-4">
+        <form (submit)="addComment()">
+          <div class="form-group">
+            <textarea
+              [(ngModel)]="newCommentText"
+              name="comment"
+              class="form-control"
+              rows="3"
+              required
+              placeholder="Write your comment here..."
+            ></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary mt-2">
+            Add Comment
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<h4 class="text-center" *ngIf="!product">Product not found!</h4>

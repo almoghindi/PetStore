@@ -1,0 +1,22 @@
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.comments .comment-author {
+  font-weight: bold;
+}
+
+.comments .comment-date {
+  font-style: italic;
+}
+
+.comments .comment-message {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.add-comment-form textarea {
+  margin-top: 10px;
+}

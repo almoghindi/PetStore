@@ -1,0 +1,16 @@
+<div class="container mt-5">
+  <h2 class="text-center mb-4">My Orders</h2>
+  <div class="list-group">
+    <a
+      class="list-group-item list-group-item-action flex-column align-items-start border rounded mb-2 shadow-sm"
+      *ngFor="let order of orders"
+      routerLink="/orders/{{ order.orderId }}"
+    >
+      <div class="d-flex w-100 justify-content-between">
+        <h5 class="mb-1">Order ID: {{ order.orderId }}</h5>
+        <small>Total Price: {{ order.totalPrice | currency }}</small>
+      </div>
+    </a>
+  </div>
+  <h4 class="text-center" *ngIf="orders.length == 0">No orders found!</h4>
+</div>

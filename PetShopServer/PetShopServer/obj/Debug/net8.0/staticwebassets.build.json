@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FHK/dMUsYj6Kim6h23YFgPqxvBdmcjUa8dPDCEH7e4U=",
+  "Source": "PetShopServer.WebApi",
+  "BasePath": "_content/PetShopServer.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,27 @@
+.site-footer {
+  background-color: #f2f2f2;
+  color: #333;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.site-footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.contact-info,
+.social-links {
+  margin: 10px 0;
+}
+
+.social-links a {
+  color: #007bff;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
