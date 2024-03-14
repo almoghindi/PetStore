@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\PetShopServer.DAL.csproj": {}
+    "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\PetShopServer.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\PetShopServer.DAL.csproj": {
+    "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\PetShopServer.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\PetShopServer.DAL.csproj",
+        "projectUniqueName": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\PetShopServer.DAL.csproj",
         "projectName": "PetShopServer.DAL",
-        "projectPath": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\PetShopServer.DAL.csproj",
+        "projectPath": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\PetShopServer.DAL.csproj",
         "packagesPath": "C:\\Users\\almog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\obj\\",
+        "outputPath": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

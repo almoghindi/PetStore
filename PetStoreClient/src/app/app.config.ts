@@ -12,8 +12,7 @@ export const appConfig: ApplicationConfig = {
   providers: [
     {
       provide: SERVER_URL,
-      useValue:
-        'https://petshopserverwebapi20240314181346.azurewebsites.net/api/',
+      useValue: 'https://localhost:7029/api/',
     },
     provideHttpClient(),
     provideRouter(routes),

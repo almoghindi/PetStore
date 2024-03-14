@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n/iuWVba+MpAnMSRe3a+SX6xndn+95+UwZPmsQkypeMan1AUWopk3s2LFFJtceyGx9ICemEgUixRgxotsNjXAA==",
+  "dgSpecHash": "coZF1Vi1hiE9S7R5hTUM+15uZZlB47k8ISQa+ENDQzWepn65C6hsXGfx9YvDEUAQRrWUPLANTMdRM0zWxTj+0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\PetShopServer.BL.csproj",
+  "projectFilePath": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\PetShopServer.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\almog\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\almog\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

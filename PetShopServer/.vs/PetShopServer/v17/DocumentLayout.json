@@ -1,113 +1,113 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\almog\\source\\repos\\PetShopServer\\",
+  "WorkspaceRootPath": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\data\\petstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\data\\petstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\data\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\data\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|solutionrelative:petshopserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\data\\petstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\data\\petstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\data\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\data\\authenticationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.bl\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.bl\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|solutionrelative:petshopserver.bl\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.bl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.bl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|solutionrelative:petshopserver.bl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.bl\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.bl\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|solutionrelative:petshopserver.bl\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.bl\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.bl\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|solutionrelative:petshopserver.bl\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|solutionrelative:petshopserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|solutionrelative:petshopserver\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.bl\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.bl\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|solutionrelative:petshopserver.bl\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|solutionrelative:petshopserver\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|solutionrelative:petshopserver\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.bl\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.bl\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|solutionrelative:petshopserver.bl\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.dal\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.dal\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896EF422-2B0F-4C04-B827-2B0B939DAECE}|PetShopServer.DAL\\PetShopServer.DAL.csproj|solutionrelative:petshopserver.dal\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver.bl\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver.bl\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CA30C5E-2675-4FF2-93B3-FBA1FC4F07F1}|PetShopServer.BL\\PetShopServer.BL.csproj|solutionrelative:petshopserver.bl\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\users\\almog\\source\\repos\\petshopserver\\petshopserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|c:\\program files\\programming\\angularasp\\petstore\\petshopserver\\petshopserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57A61350-D233-4D9E-8A40-FB31181F403A}|PetShopServer\\PetShopServer.WebApi.csproj|solutionrelative:petshopserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -124,22 +124,21 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IAuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\IAuthRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\IAuthRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\IAuthRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\IAuthRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T18:00:18.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T18:00:18.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "AuthRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\AuthRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\AuthRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\AuthRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\AuthRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\AuthRepository.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,171 +149,160 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Models\\Order.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Models\\Order.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Models\\Order.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Models\\Order.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T20:56:00.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T20:56:00.208Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\OrderRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\OrderRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\OrderRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T20:51:47.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T20:51:47.88Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\OrderService.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\OrderService.cs",
               "RelativeDocumentMoniker": "PetShopServer.BL\\OrderService.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\OrderService.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\OrderService.cs",
               "RelativeToolTip": "PetShopServer.BL\\OrderService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T20:49:23.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T20:49:23.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\IOrderService.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\IOrderService.cs",
               "RelativeDocumentMoniker": "PetShopServer.BL\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\IOrderService.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\IOrderService.cs",
               "RelativeToolTip": "PetShopServer.BL\\IOrderService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T20:45:40.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T20:45:40.727Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "CommentController.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Controllers\\CommentController.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "PetShopServer\\Controllers\\CommentController.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Controllers\\CommentController.cs",
               "RelativeToolTip": "PetShopServer\\Controllers\\CommentController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAowB0AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T19:47:11.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T19:47:11.466Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\CategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T19:09:21.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T19:09:21.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\ICategoryService.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\ICategoryService.cs",
               "RelativeDocumentMoniker": "PetShopServer.BL\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\ICategoryService.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\ICategoryService.cs",
               "RelativeToolTip": "PetShopServer.BL\\ICategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T15:27:09.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T15:27:09.86Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Program.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Program.cs",
               "RelativeDocumentMoniker": "PetShopServer\\Program.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Program.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Program.cs",
               "RelativeToolTip": "PetShopServer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T15:26:39.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T15:26:39.934Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\ICategoryRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T18:37:58.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T18:37:58.917Z"
             }
           ]
         },
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PetStoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Data\\PetStoreContext.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Data\\PetStoreContext.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Data\\PetStoreContext.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Data\\PetStoreContext.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Data\\PetStoreContext.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Data\\PetStoreContext.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T18:32:37.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T18:32:37.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\appsettings.json",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\appsettings.json",
               "RelativeDocumentMoniker": "PetShopServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\appsettings.json",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\appsettings.json",
               "RelativeToolTip": "PetShopServer\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-04T17:29:11.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Models\\User.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Models\\User.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:17:51.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T17:17:51.688Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\ProductRepository.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,159 +311,147 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AuthenticationContext.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Data\\AuthenticationContext.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Data\\AuthenticationContext.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Data\\AuthenticationContext.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Data\\AuthenticationContext.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Data\\AuthenticationContext.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Data\\AuthenticationContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T17:17:48.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-04T17:17:48.758Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\IOrderRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\IOrderRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T20:48:55.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T20:48:55.164Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "PetShopServer\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Controllers\\OrderController.cs",
               "RelativeToolTip": "PetShopServer\\Controllers\\OrderController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T20:45:26.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T20:45:26.882Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CommentService.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\CommentService.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\CommentService.cs",
               "RelativeDocumentMoniker": "PetShopServer.BL\\CommentService.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\CommentService.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\CommentService.cs",
               "RelativeToolTip": "PetShopServer.BL\\CommentService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T19:26:13.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T19:26:13.517Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\CategoryService.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\CategoryService.cs",
               "RelativeDocumentMoniker": "PetShopServer.BL\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\CategoryService.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\CategoryService.cs",
               "RelativeToolTip": "PetShopServer.BL\\CategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T15:26:56.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T15:26:56.849Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\AuthService.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\AuthService.cs",
               "RelativeDocumentMoniker": "PetShopServer.BL\\AuthService.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\AuthService.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\AuthService.cs",
               "RelativeToolTip": "PetShopServer.BL\\AuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T15:30:49.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T15:30:49.914Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\ICommentRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\ICommentRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\ICommentRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\ICommentRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\ICommentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T19:26:58.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T19:26:58.742Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "CommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\CommentRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\CommentRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\CommentRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\CommentRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\CommentRepository.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T20:37:52.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T20:37:52.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Controllers\\AuthController.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "PetShopServer\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Controllers\\AuthController.cs",
               "RelativeToolTip": "PetShopServer\\Controllers\\AuthController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAowC4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T19:14:39.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T19:14:39.334Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "PetShopServer\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "PetShopServer\\Controllers\\CategoryController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T19:14:33.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T19:14:33.109Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\IProductRepository.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\IProductRepository.cs",
               "RelativeDocumentMoniker": "PetShopServer.DAL\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.DAL\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.DAL\\Repositories\\IProductRepository.cs",
               "RelativeToolTip": "PetShopServer.DAL\\Repositories\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T15:44:01.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T15:44:01.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\IAuthService.cs",
+              "DocumentMoniker": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\IAuthService.cs",
               "RelativeDocumentMoniker": "PetShopServer.BL\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\almog\\source\\repos\\PetShopServer\\PetShopServer.BL\\IAuthService.cs",
+              "ToolTip": "C:\\Program Files\\programming\\AngularAsp\\PetStore\\PetShopServer\\PetShopServer.BL\\IAuthService.cs",
               "RelativeToolTip": "PetShopServer.BL\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T15:29:44.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T15:29:44.208Z"
             }
           ]
         }

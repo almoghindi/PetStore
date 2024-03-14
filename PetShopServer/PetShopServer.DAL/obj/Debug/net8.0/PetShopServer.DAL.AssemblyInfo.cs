@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetShopServer.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd47962931097be0b9d733322d4c6bf8b4fa2dcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetShopServer.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetShopServer.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
